@@ -25,7 +25,6 @@ public class App
 
         // Check document in collection
         Document myDoc = collection.find().first();
-        assert myDoc != null;
         System.out.println(myDoc.toJson());
     }
 }
