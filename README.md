@@ -11,4 +11,4 @@ Things just not working for me tonight. test 100
 
 ![workflow](https://github.com/marreo473/sem/actions/workflows/main.yml/badge.svg)
 
-https://img.shields.io/github/workflow/status/marreo473/sem/A%20workflow%20for%20my%20Hello%20World%20App/develop
+
